@@ -105,46 +105,46 @@ Terraform을 사용해 인프라를 코드로 관리하고, AWS 클라우드 서
 
 
 ## 🧱 아키텍처
-![3차_3조전체시방서](https://github.com/user-attachments/assets/afa3839c-6442-4190-8153-7a8bcc13f981)
+![3차_3조전체시방서](https://github.com/user-attachments/assets/53a36a45-a48e-4b24-83f1-2e72faa8f9eb)
 
 
 
 ## 🌐 PAGE
 * 메인
-![main](https://github.com/user-attachments/assets/96d12c60-303f-43aa-878d-529cfa3af879)
+![main](https://github.com/user-attachments/assets/811b036f-5ea2-429a-bba3-93ad8b0ec382)
 
 * 회원가입
 ![signup](https://github.com/user-attachments/assets/71703698-b275-4023-8522-18d7b6ccf3a6)
 
 * 로그인
-![login](https://github.com/user-attachments/assets/9677e526-100e-4d74-b66b-da97f03ea029)
+![login](https://github.com/user-attachments/assets/78fccfa1-f8f3-4498-a574-b1db0ef60341)
 
 * 주문
-![order1](https://github.com/user-attachments/assets/398a3a1b-84e2-44d7-9fac-27a0a931407d)
-![order2](https://github.com/user-attachments/assets/38142566-6c7a-49b3-92e1-209ba20982f2)
+![order1](https://github.com/user-attachments/assets/6b2db21f-ea70-499c-bde7-2fb7eddca0f2)
+![order2](https://github.com/user-attachments/assets/1d9ce5a2-f3ce-4506-b9f6-f41a8f8e08b5)
 
 * 예약
-![reservation1](https://github.com/user-attachments/assets/611ceb9d-7467-4364-a23b-c77bd22181d9)
+![reservation1](https://github.com/user-attachments/assets/d68cb207-5ace-45cf-858b-d4600972db0a)
 
 * 관리자 전용 페이지
-![reservation2](https://github.com/user-attachments/assets/7ca37b6d-2539-4af0-8878-598bf6df85e9)
+![reservation2](https://github.com/user-attachments/assets/80769e82-93b4-4347-a201-3f26ed17fdaf)
 
 ## 🧪 테스트 영상
 * Redis 적용
 
-![Redis](https://github.com/user-attachments/assets/d0b62eff-ca75-41e2-92fc-bb868ea6b2af)
+![Redis](https://github.com/user-attachments/assets/93e8c1ee-5478-4ea4-b1aa-172540288cad)
 
 * 롤링업데이트
 
-![롤링업데이트](https://github.com/user-attachments/assets/8879a8f5-8b1d-4337-9db5-1b95d9228102)
+![롤링업데이트](https://github.com/user-attachments/assets/21ac1a24-0e9f-44bb-892b-fe9ff712ea4e)
 
 * 롤백
 
-![롤백](https://github.com/user-attachments/assets/be4272cf-b9fe-4a7d-a445-3305287a3a4b)
+![롤백](https://github.com/user-attachments/assets/78b612c5-2bc8-4ef7-bd9e-c37c1b97b275)
 
 * 부하테스트 Whatap 모니터링
 
-![부하테스트 및 Whatap 모니터링](https://github.com/user-attachments/assets/7e8a17ec-01e2-4bca-b3fc-5a756d373f3c)
+![부하테스트 및 Whatap 모니터링](https://github.com/user-attachments/assets/44310c32-d01b-4cd0-9708-8d1e5a9d07d7)
 
 
 ## 📦 산출물
